@@ -1,6 +1,6 @@
 Tasques per Fer:
 Mockup Enrique
-README  Enrique
+README  Marc
 INDEXPHP Adrián
 
 Tasques fetes:
