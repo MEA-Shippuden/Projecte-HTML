@@ -1,3 +1,3 @@
 # Projecte-HTML
-
-Hola buenas tardes.
+Integrants del Projecte: Marc Teruel,Adrián Jimenez,Enrique Rillo.
+Objectiu “breu” del projecte: 
