@@ -1,0 +1,5 @@
+Buscando información para mí parte, me ha dado por mirar como se podría guardar información en la cookie que enviaría "el servidor" al "cliente" (más que nada porque son la misma máquina) y he encontrado las siguientes páginas que a lo mejor te sirven de ayuda para tu parte.
+
+https://www.php.net/manual/es/function.setcookie.php
+https://www.php.net/manual/es/function.htmlspecialchars.php
+https://www.php.net/manual/es/control-structures.foreach.php
